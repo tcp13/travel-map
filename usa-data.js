@@ -28,5 +28,10 @@ var markers = [
     {"lat":39.3253786,"long":-77.7388818,"cat":"roadtrip","date":"February 2021","content":"","tooltip":"Harpers Ferry, WV","title":"Harpers Ferry, WV","gallery":["harpersferry1.gif","harpersferry2.jpg","harpersferry3.jpg"]},
     {"lat":38.4754706,"long":-78.4534573,"cat":"parks","date":"February 2021","content":"","tooltip":"Shenandoah National Park","title":"Shenandoah National Park","gallery":["shenandoah1.jpg","shenandoah2.jpg","shenandoah3.jpg","shenandoah4.jpg"]},
     {"lat":35.1122945,"long":-85.2941251,"cat":"roadtrip","date":"March 2021","content":"","tooltip":"Red Bank, TN","title":"Red Bank, TN","gallery":["chattanooga1.jpg","chattanooga2.jpg","chattanooga3.jpg","chattanooga4.jpg"]},
-    {"lat":35.6130503,"long":-83.55315370000001,"cat":"parks","date":"March 2021","content":"","tooltip":"Great Smoky Mountains National Park","title":"Great Smoky Mountains National Park","gallery":["smokymountains1.jpg"]}
+    {"lat":35.6130503,"long":-83.55315370000001,"cat":"parks","date":"March 2021","content":"","tooltip":"Great Smoky Mountains National Park","title":"Great Smoky Mountains National Park","gallery":["smokymountains1.jpg"]},
+    {"lat":39.1031182,"long":-84.5120196,"cat":"roadtrip","date":"March 2021","content":"","tooltip":"Cincinnati, OH","title":"Cincinnati, OH","gallery":["cincinnati1.jpg","cincinnati2.jpg","cincinnati3.jpg","cincinnati4.jpg","cincinnati5.jpg","cincinnati6.jpg"]},
+    {"lat":38.2526647,"long":-85.7584557,"cat":"roadtrip","date":"March 2021","content":"","tooltip":"Louisville, KY","title":"Louisville, KY","gallery":["louisville1.jpg","louisville2.gif","louisville3.jpg"]},
+    {"lat":37.181531,"long":-86.15052730000001,"cat":"parks","date":"March 2021","content":"","tooltip":"Mammoth Cave National Park","title":"Mammoth Cave National Park","gallery":["mammoth1.jpg","mammoth2.jpg","mammoth3.jpg"]},
+    {"lat":41.6763545,"long":-86.25198979999999,"cat":"roadtrip","date":"April 2021","content":"","tooltip":"South Bend, IN","title":"South Bend, IN","gallery":["southbend1.jpg","southbend2.jpg"]},
+    {"lat":40.2671941,"long":-86.1349019,"cat":"parks","date":"April 2021","content":"","tooltip":"Indiana Sand Dunes National Park","title":"Indiana Sand Dunes National Park","gallery":["sanddunes1.jpg","sanddunes2.jpg"]}
 ];
