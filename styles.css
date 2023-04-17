@@ -457,6 +457,9 @@ a.img-link:nth-of-type(odd) .modal-gallery-img{
     font-size: 2rem;
     margin-top: 0px;
     line-height: 1.25;
+    border-bottom: 2px solid var(--black);
+    padding-bottom: 1rem;
+    margin-bottom: 0px;
 }
 #modal p{
     font-size: 1.2rem;
@@ -466,6 +469,7 @@ a.img-link:nth-of-type(odd) .modal-gallery-img{
 #modal hr{
     margin-top: 2rem;
     margin-bottom: 2rem;
+    border-color: var(--black);
 }
 #modal .modal-date{
     font-size: 0.8rem;
