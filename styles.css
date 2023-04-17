@@ -440,6 +440,7 @@ input[type='checkbox']{
 /* MODAL CONTENT */
 .modal-img{
     width:100%;
+    vertical-align:top;
 }
 .modal-gallery-img{
     /* width:31%;
