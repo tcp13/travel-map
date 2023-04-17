@@ -447,10 +447,10 @@ input[type='checkbox']{
     width:48%;
     margin-top:3%
 }
-a:nth-child(odd) .modal-gallery-img{
+a.img-link:nth-of-type(even) .modal-gallery-img{
     margin-left:2%;
 }
-a:nth-child(even) .modal-gallery-img{
+a.img-link:nth-of-type(odd) .modal-gallery-img{
     margin-right:2%;
 }
 #modal h1{
