@@ -457,7 +457,7 @@ a.img-link:nth-of-type(odd) .modal-gallery-img{
     font-size: 2rem;
     margin-top: 0px;
     line-height: 1.25;
-    border-bottom: 2px solid var(--black);
+    /* border-bottom: 2px solid var(--black); */
     padding-bottom: 1rem;
     margin-bottom: 0px;
 }
