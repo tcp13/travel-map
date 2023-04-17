@@ -25,5 +25,8 @@ var markers = [
     {"lat":38.9784453,"long":-76.4921829,"cat":"roadtrip","date":"January 2021","content":"","tooltip":"Annapolis, MD","title":"Annapolis, MD","gallery":["annapolis1.jpg","annapolis2.jpg","annapolis3.jpg"]},
     {"lat":38.74594820000001,"long":-78.6422377,"cat":"roadtrip","date":"February 2021","content":"","tooltip":"Mount Jackson, VA","title":"Mount Jackson, VA","gallery":["mountjackson1.jpg","mountjackson2.jpg","mountjackson3.jpg","mountjackson4.jpg"]},
     {"lat":38.5686556,"long":-79.1706444,"cat":"roadtrip","date":"February 2021","content":"","tooltip":"Harrisonburg, VA","title":"Harrisonburg, VA","gallery":["harrisonburg1.jpg","harrisonburg2.jpg","harrisonburg3.jpg","harrisonburg4.jpg"]},
-    {"lat":39.3253786,"long":-77.7388818,"cat":"roadtrip","date":"February 2021","content":"","tooltip":"Harpers Ferry, WV","title":"Harpers Ferry, WV","gallery":["harpersferry1.gif","harpersferry2.jpg","harpersferry3.jpg"]}
+    {"lat":39.3253786,"long":-77.7388818,"cat":"roadtrip","date":"February 2021","content":"","tooltip":"Harpers Ferry, WV","title":"Harpers Ferry, WV","gallery":["harpersferry1.gif","harpersferry2.jpg","harpersferry3.jpg"]},
+    {"lat":38.4754706,"long":-78.4534573,"cat":"parks","date":"February 2021","content":"","tooltip":"Shenandoah National Park","title":"Shenandoah National Park","gallery":["shenandoah1.jpg","shenandoah2.jpg","shenandoah3.jpg","shenandoah4.jpg"]},
+    {"lat":35.1122945,"long":-85.2941251,"cat":"roadtrip","date":"March 2021","content":"","tooltip":"Red Bank, TN","title":"Red Bank, TN","gallery":["chattanooga1.jpg","chattanooga2.jpg","chattanooga3.jpg","chattanooga4.jpg"]},
+    {"lat":35.6130503,"long":-83.55315370000001,"cat":"parks","date":"March 2021","content":"","tooltip":"Great Smoky Mountains National Park","title":"Great Smoky Mountains National Park","gallery":["smokymountains1.jpg"]}
 ];
