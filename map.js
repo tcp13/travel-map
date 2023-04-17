@@ -54,11 +54,11 @@ function displayContent() {
                         $("#modal #story-content").append("<button aria-label='close modal' type='button' class='close-modal' onclick='toggleModal();'>&times;</button>");
                         $("#modal #story-content").append("<p class='modal-date'>" + markers[i].date + "</p>");
                         $("#modal #story-content").append("<h1>" + markers[i].title + "</h1><hr>");
-                        if(markers[i].content){
-                            $("#modal #story-content").append("<p>" + markers[i].content + "</p>");
-                        }
                         for(j=0; j<markers[i].gallery.length; j++){
                             $("#modal #story-content").append("<a class='img-link' href='/images/" + markers[i].gallery[j] + "' target='_blank' aria-label='View Full Image'><img class='modal-gallery-img' src='/images/" + markers[i].gallery[j] + "' alt=''></a>");
+                        }
+                        if(markers[i].content){
+                            $("#modal #story-content").append("<hr><p>" + markers[i].content + "</p>");
                         }
                     }
 
@@ -98,11 +98,11 @@ function displayContent() {
                     $("#modal #story-content").append("<button aria-label='close modal' type='button' class='close-modal' onclick='toggleModal();'>&times;</button>");
                     $("#modal #story-content").append("<p class='modal-date'>" + markers[i].date + "</p>");
                     $("#modal #story-content").append("<h1>" + markers[i].title + "</h1><hr>");
-                    if(markers[i].content){
-                        $("#modal #story-content").append("<p>" + markers[i].content + "</p>");
-                    }
                     for(j=0; j<markers[i].gallery.length; j++){
                         $("#modal #story-content").append("<a class='img-link' href='/images/" + markers[i].gallery[j] + "' target='_blank' aria-label='View Full Image'><img class='modal-gallery-img' src='/images/" + markers[i].gallery[j] + "' alt=''></a>");
+                    }
+                    if(markers[i].content){
+                        $("#modal #story-content").append("<hr><p>" + markers[i].content + "</p>");
                     }
                 }
 

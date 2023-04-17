@@ -459,7 +459,13 @@ a.img-link:nth-of-type(odd) .modal-gallery-img{
     line-height: 1.25;
 }
 #modal p{
-    font-size: 1.25rem;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+#modal hr{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 #modal .modal-date{
     font-size: 0.8rem;
