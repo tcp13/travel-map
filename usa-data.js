@@ -10,5 +10,15 @@ var markers = [
     {"lat":44.3385559,"long":-68.2733346,"cat":"parks","date":"October 2020","content":"","tooltip":"Acadia National Park","title":"Acadia National Park","gallery":["acadia1.jpg","acadia2.jpg","acadia3.jpg","acadia4.jpg","acadia5.jpg"]},
     {"lat":43.6590993,"long":-70.2568189,"cat":"roadtrip","date":"October 2020","content":"","tooltip":"Portland, ME","title":"Portland, ME","gallery":["portland1.jpg","portland2.jpg"]},
     {"lat":43.0717552,"long":-70.7625532,"cat":"roadtrip","date":"October 2020","content":"","tooltip":"Portsmouth, NH","title":"Portsmouth, NH","gallery":"portsmouth1.jpg"},
-    {"lat":42.3600825,"long":-71.0588801,"cat":"roadtrip","date":"November 2020","content":"","tooltip":"Boston, MA","title":"Boston, MA","gallery":["boston1.jpg","boston2.jpg","boston3.gif","boston4.gif","boston5.gif"]}
+    {"lat":42.3600825,"long":-71.0588801,"cat":"roadtrip","date":"November 2020","content":"","tooltip":"Boston, MA","title":"Boston, MA","gallery":["boston1.jpg","boston2.jpg","boston3.gif","boston4.gif","boston5.gif"]},
+    {"lat":42.5197473,"long":-70.8954626,"cat":"roadtrip","date":"November 2020","content":"","tooltip":"Salem, MA","title":"Salem, MA","gallery":["salem1.jpg"]},
+    {"lat":41.8299634,"long":-69.97403609999999,"cat":"roadtrip","date":"November 2020","content":"","tooltip":"Cape Cod, MA","title":"Cape Cod, MA","gallery":["capecod1.jpg","capecod2.jpg"]},
+    {"lat":41.7658043,"long":-72.6733723,"cat":"roadtrip","date":"November 2020","content":"","tooltip":"Hartford, CT","title":"Hartford, CT","gallery":["hartford1.jpg"]},
+    {"lat":41.308274,"long":-72.9278835,"cat":"roadtrip","date":"November 2020","content":"","tooltip":"New Haven, CT","title":"New Haven, CT","gallery":["newhaven1.jpg","newhaven2.jpg"]},
+    {"lat":41.394817,"long":-73.4540111,"cat":"roadtrip","date":"November 2020","content":"","tooltip":"Danbury, CT","title":"Danbury, CT","gallery":["danbury1.jpg"]},
+    {"lat":40.7127753,"long":-74.0059728,"cat":"roadtrip","date":"December 2020","content":"","tooltip":"New York, NY","title":"New York, NY","gallery":["newyork1.jpg","newyork2.jpg"]},
+    {"lat":39.9525839,"long":-75.1652215,"cat":"roadtrip","date":"December 2020","content":"","tooltip":"Philadelphia, PA","title":"Philadelphia, PA","gallery":["philadelphia1.jpg","philadelphia2.jpg"]},
+    {"lat":38.0932834,"long":-75.2070644,"cat":"roadtrip","date":"December 2020","content":"","tooltip":"Assateague, VA","title":"Assateague, VA","gallery":["assateague1.jpg","assateague2.jpg"]},
+    {"lat":38.3031837,"long":-77.4605399,"cat":"roadtrip","date":"January 2021","content":"","tooltip":"Fredericksburg, VA","title":"Fredericksburg, VA","gallery":["fredericksburg1.jpg","fredericksburg2.jpg","fredericksburg3.jpg","fredericksburg4.jpg"]},
+    {"lat":38.9071923,"long":-77.0368707,"cat":"roadtrip","date":"January 2021","content":"","tooltip":"Washington DC","title":"Washington DC","gallery":["dc1.jpg","dc2.jpg"]}
 ];
