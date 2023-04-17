@@ -45,12 +45,12 @@ function displayContent() {
                     $("#modal #story-content").empty();
 
                     // featured image layout
-                    if(markers[i].img){
-                        $("#modal #story-content").append("<div class='col-2-skewed'><div class='col'><a class='img-link' href='/images/" + markers[i].img + "' target='_blank' aria-label='View Full Image'><img class='modal-img' src='/images/" + markers[i].img + "' alt=''></a></div><div class='col'><button aria-label='close modal' type='button' class='close-modal' onclick='toggleModal();'>&times;</button><p class='modal-date'>" + markers[i].date + "</p><h1>" + markers[i].title + "</h1><p>" + markers[i].content + "</p></div></div>");
-                    }
+                    // if(markers[i].img){
+                    //     $("#modal #story-content").append("<div class='col-2-skewed'><div class='col'><a class='img-link' href='/images/" + markers[i].img + "' target='_blank' aria-label='View Full Image'><img class='modal-img' src='/images/" + markers[i].img + "' alt=''></a></div><div class='col'><button aria-label='close modal' type='button' class='close-modal' onclick='toggleModal();'>&times;</button><p class='modal-date'>" + markers[i].date + "</p><h1>" + markers[i].title + "</h1><p>" + markers[i].content + "</p></div></div>");
+                    // }
 
                     // gallery image layout
-                    else if(markers[i].gallery){
+                    /* else */ if(markers[i].gallery){
                         $("#modal #story-content").append("<button aria-label='close modal' type='button' class='close-modal' onclick='toggleModal();'>&times;</button>");
                         $("#modal #story-content").append("<p class='modal-date'>" + markers[i].date + "</p>");
                         $("#modal #story-content").append("<h1>" + markers[i].title + "</h1>");
@@ -89,12 +89,12 @@ function displayContent() {
                 $("#modal #story-content").empty();
 
                 // featured image layout
-                if(markers[i].img){
-                    $("#modal #story-content").append("<div class='col-2-skewed'><div class='col'><a class='img-link' href='/images/" + markers[i].img + "' target='_blank' aria-label='View Full Image'><img class='modal-img' src='/images/" + markers[i].img + "' alt=''></a></div><div class='col'><button aria-label='close modal' type='button' class='close-modal' onclick='toggleModal();'>&times;</button><p class='modal-date'>" + markers[i].date + "</p><h1>" + markers[i].title + "</h1><p>" + markers[i].content + "</p></div></div>");
-                }
+                // if(markers[i].img){
+                //     $("#modal #story-content").append("<div class='col-2-skewed'><div class='col'><a class='img-link' href='/images/" + markers[i].img + "' target='_blank' aria-label='View Full Image'><img class='modal-img' src='/images/" + markers[i].img + "' alt=''></a></div><div class='col'><button aria-label='close modal' type='button' class='close-modal' onclick='toggleModal();'>&times;</button><p class='modal-date'>" + markers[i].date + "</p><h1>" + markers[i].title + "</h1><p>" + markers[i].content + "</p></div></div>");
+                // }
 
                 // gallery image layout
-                else if(markers[i].gallery){
+                /* else */ if(markers[i].gallery){
                     $("#modal #story-content").append("<button aria-label='close modal' type='button' class='close-modal' onclick='toggleModal();'>&times;</button>");
                     $("#modal #story-content").append("<p class='modal-date'>" + markers[i].date + "</p>");
                     $("#modal #story-content").append("<h1>" + markers[i].title + "</h1>");
