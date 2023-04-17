@@ -7,5 +7,8 @@ var markers = [
     {"lat":35.2270869,"long":-80.8431267,"cat":"roadtrip","date":"September 2020","content":"","tooltip":"Charlotte, NC","title":"Charlotte, NC","gallery":["charlotte1.jpg","charlotte2.jpg","charlotte3.jpg"]},
     {"lat":44.4758825,"long":-73.21207199999999,"cat":"roadtrip","date":"October 2020","content":"","tooltip":"Burlington, VT","title":"Burlington, VT","gallery":["burlington1.jpg","burlington2.jpg","burlington3.jpg","burlington4.jpg","burlington5.jpg","burlington6.jpg","burlington7.jpg"]},
     {"lat":44.2859022,"long":-69.7908786,"cat":"roadtrip","date":"October 2020","content":"","tooltip":"Hallowell, ME","title":"Hallowell, ME","gallery":["hallowell1.jpg","hallowell2.jpg","hallowell3.jpg","hallowell4.jpg"]},
-    {"lat":44.3385559,"long":-68.2733346,"cat":"parks","date":"","content":"","tooltip":"Acadia National Park","title":"Acadia National Park","gallery":["acadia1.jpg","acadia2.jpg","acadia3.jpg","acadia4.jpg","acadia5.jpg"]}
+    {"lat":44.3385559,"long":-68.2733346,"cat":"parks","date":"October 2020","content":"","tooltip":"Acadia National Park","title":"Acadia National Park","gallery":["acadia1.jpg","acadia2.jpg","acadia3.jpg","acadia4.jpg","acadia5.jpg"]},
+    {"lat":43.6590993,"long":-70.2568189,"cat":"roadtrip","date":"October 2020","content":"","tooltip":"Portland, ME","title":"Portland, ME","gallery":["portland1.jpg","portland2.jpg"]},
+    {"lat":43.0717552,"long":-70.7625532,"cat":"roadtrip","date":"October 2020","content":"","tooltip":"Portsmouth, NH","title":"Portsmouth, NH","img":"portsmouth1"},
+    {"lat":42.3600825,"long":-71.0588801,"cat":"roadtrip","date":"November 2020","content":"","tooltip":"Boston, MA","title":"Boston, MA","gallery":["boston1.jpg","boston2.jpg","boston3.gif","boston4.gif"]}
 ];
