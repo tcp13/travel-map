@@ -443,10 +443,9 @@ input[type='checkbox']{
     vertical-align:top;
 }
 .modal-gallery-img{
-    /* width:31%;
-    margin-right:2%; */
     width:48%;
-    margin-top:3%
+    margin-top:3%;
+    vertical-align:top;
 }
 a.img-link:nth-of-type(even) .modal-gallery-img{
     margin-left:2%;
