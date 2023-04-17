@@ -4,5 +4,5 @@ var markers = [
     {"lat":36.1626638,"long":-86.7816016,"cat":"roadtrip","date":"August 2020","content":"","tooltip":"Nashville, TN","title":"Nashville, TN","gallery":["nashville1.jpg","nashville2.jpg","nashville3.jpg"]},
     {"lat":32.0808989,"long":-81.091203,"cat":"roadtrip","date":"August 2020","content":"","tooltip":"Savannah, GA","title":"Savannah, GA","gallery":["savannah1.jpg","savannah2.jpg","savannah3.jpg","savannah4.jpg"]},
     {"lat":32.7764749,"long":-79.93105120000001,"cat":"roadtrip","date":"August 2020","content":"","tooltip":"Charleston, SC","title":"Charleston, SC","gallery":["charleston1.jpg","charleston2.jpg","charleston3.jpg","charleston4.jpg","charleston5.jpg","charleston6.jpg","charleston7.jpg"]},
-    {"lat":35.2270869,"long":-80.8431267,"cat":"roadtrip","date":"","content":"","tooltip":"Charlotte, NC","title":"Charlotte, NC","gallery":["charlotte1.jpg","charlotte2.jpg","charlotte3.jpg"]}
+    {"lat":35.2270869,"long":-80.8431267,"cat":"roadtrip","date":"September 2020","content":"","tooltip":"Charlotte, NC","title":"Charlotte, NC","gallery":["charlotte1.jpg","charlotte2.jpg","charlotte3.jpg"]}
 ];
