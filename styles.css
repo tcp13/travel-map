@@ -122,16 +122,12 @@ body.map-page{
     body{margin:4% 12%;}
     body.map-page{margin:2% 4%;}
 }
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 900px) {
     body{margin:4%;}
     body.map-page{margin:4%;}
-}
-@media only screen and (max-width: 800px) {
     div.card-padded {
         padding: 1rem 2rem !important;
     }
-}
-@media only screen and (max-width: 600px){
     .col{
         display: block !important;
         width: 100% !important;
