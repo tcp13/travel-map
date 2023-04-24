@@ -147,6 +147,14 @@ body.map-page{
         line-height:1.25;
         padding-top: 0.2rem;
     }
+    .modal-gallery-img{
+        width:96% !important;
+        margin:2% !important;
+        vertical-align:top;
+    }
+    .modal-content{
+        padding:1rem !important;
+    }
 }
 
 
