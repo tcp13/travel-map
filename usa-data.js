@@ -67,5 +67,18 @@ var markers = [
     {"lat":36.171563,"long":-115.1391009,"cat":"roadtrip","date":"September 2021","content":"","tooltip":"Las Vegas, NV","title":"Las Vegas, NV","gallery":["lasvegas1.jpg","lasvegas2.jpg"]},
     {"lat":36.5322649,"long":-116.9325408,"cat":"parks","date":"September 2021","content":"","tooltip":"Death Valley National Park","title":"Death Valley National Park","gallery":["deathvalley1.jpg","deathvalley2.jpg","deathvalley3.jpg","deathvalley4.jpg","deathvalley5.jpg"]},
     {"lat":20.7983626,"long":-156.3319253,"cat":"roadtrip","date":"October 2021","content":"","tooltip":"Maui, HI","title":"Maui, HI","gallery":["maui1.jpg","maui2.jpg","maui3.jpg","maui4.jpg"]},
-    {"lat":20.7203826,"long":-156.1551524,"cat":"parks","date":"October 2021","content":"","tooltip":"Haleakalā National Park","title":"Haleakalā National Park","gallery":["haleakala1.jpg","haleakala2.jpg","haleakala3.jpg","haleakala4.jpg"]}
+    {"lat":20.7203826,"long":-156.1551524,"cat":"parks","date":"October 2021","content":"","tooltip":"Haleakalā National Park","title":"Haleakalā National Park","gallery":["haleakala1.jpg","haleakala2.jpg","haleakala3.jpg","haleakala4.jpg"]},
+    {"lat":19.4193697,"long":-155.2884969,"cat":"parks","date":"October 2021","content":"","tooltip":"Volcanoes National Park","title":"Volcanoes National Park","gallery":["volcanoes1.jpg","volcanoes2.jpg"]},
+    {"lat":35.1982836,"long":-111.651302,"cat":"roadtrip","date":"October 2021","content":"","tooltip":"Flagstaff, AZ","title":"Flagstaff, AZ","gallery":["flagstaff1.jpg","flagstaff2.jpg"]},
+    {"lat":35.0036935,"long":-109.7889229,"cat":"parks","date":"October 2021","content":"","tooltip":"Petrified Forest National Park","title":"Petrified Forest National Park","gallery":["petrified1.jpg","petrified2.jpg","petrified3.jpg","petrified4.jpg"]},
+    {"lat":35.0843859,"long":-106.650422,"cat":"roadtrip","date":"October 2021","content":"","tooltip":"Albuquerque, NM","title":"Albuquerque, NM","gallery":["albuquerque1.jpg","albuquerque2.jpg"]},
+    {"lat":35.4675602,"long":-97.5164276,"cat":"roadtrip","date":"November 2021","content":"","tooltip":"Oklahoma City, OK","title":"Oklahoma City, OK","gallery":["oklahomacity1.jpg","oklahomacity2.jpg"]},
+    {"lat":39.0473451,"long":-95.67515759999999,"cat":"roadtrip","date":"November 2021","content":"","tooltip":"Topeka, KS","title":"Topeka, KS","gallery":["topeka1.jpg","topeka2.jpg","topeka3.jpg"]},
+    {"lat":41.2565369,"long":-95.9345034,"cat":"roadtrip","date":"November 2021","content":"","tooltip":"Omaha, NE","title":"Omaha, NE","gallery":["omaha1.jpg"]},
+    {"lat":41.5868353,"long":-93.6249593,"cat":"roadtrip","date":"November 2021","content":"","tooltip":"Des Moines, IA","title":"Des Moines, IA","gallery":["desmoines1.jpg"]},
+    {"lat":38.6248848,"long":-90.1858982,"cat":"parks","date":"November 2021","content":"","tooltip":"Gateway Arch National Park","title":"Gateway Arch National Park","gallery":["gateway1.jpg","gateway2.gif"]},
+    {"lat":34.5269095,"long":-93.0690934,"cat":"parks","date":"December 2021","content":"","tooltip":"Hot Springs National Park","title":"Hot Springs National Park","gallery":["hotsprings1.jpg","hotsprings2.jpg","hotsprings3.jpg","hotsprings4.jpg"]},
+    {"lat":35.1495343,"long":-90.0489801,"cat":"roadtrip","date":"December 2021","content":"","tooltip":"Memphis, TN","title":"Memphis, TN","gallery":["memphis1.jpg","memphis2.jpg","memphis3.jpg"]},
+    {"lat":33.5185892,"long":-86.8103567,"cat":"roadtrip","date":"December 2021","content":"","tooltip":"Birmingham, AL","title":"Birmingham, AL","gallery":["birmingham1.jpg","birmingham2.jpg","birmingham3.jpg","birmingham4.jpg","birmingham5.jpg","birmingham6.jpg"]},
+    {"lat":33.7918719,"long":-80.7490486,"cat":"parks","date":"December 2021","content":"","tooltip":"Congaree National Park","title":"Congaree National Park","gallery":["congaree1.jpg"]}
 ];
