@@ -432,7 +432,7 @@ input[type='checkbox']{
     width: 100%;
     opacity: 0.8;
 }
-#toggle-view button:hover button{
+#toggle-view button:hover{
     opacity: 1 !important;
 }
 

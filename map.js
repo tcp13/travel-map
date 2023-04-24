@@ -7,7 +7,8 @@ google.charts.load('current', {
 function displayContent() {
 
     // hide timeline view by default
-    setViewMap();
+    $("#timeline").hide();
+    $("#map").css("translate", "0px");
 
     // data init
     var data = new google.visualization.DataTable();
