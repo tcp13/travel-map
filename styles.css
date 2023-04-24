@@ -429,10 +429,10 @@ input[type='checkbox']{
 /* VIEW TOGGLE */
 #toggle-view button{
     display: inline-block;
-    width: calc(50% - 2px);
+    width: 100%;
     opacity: 0.8;
 }
-.active-view, #toggle-view button:hover{
+#toggle-view button:hover button{
     opacity: 1 !important;
 }
 

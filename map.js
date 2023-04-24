@@ -155,18 +155,22 @@ function displayContent() {
 };
 
 
-// view toggles
+// toggle timeline view
+function toggleTimeline(){
+    
+    // hide timeline
+    if($("body").hasClass("timeline-enabled")){
+        $("#timeline").hide();
+        $("#map").css("translate", "0px");
+        $("#toggle-timeline").text("Show Timeline");
+        $("body").removeClass("timeline-enabled");
+    }
 
-function setViewMap(){
-    $("#timeline").hide();
-    $("#map").css("translate", "0px");
-    $("#map-view").addClass("active-view");
-    $("#timeline-view").removeClass("active-view");
-}
-
-function setViewTimeline(){
-    $("#map").css("translate", "-1rem");
-    $("#timeline").show();
-    $("#timeline-view").addClass("active-view");
-    $("#map-view").removeClass("active-view");
+    // show timeline
+    else{
+        $("#map").css("translate", "-1rem");
+        $("#timeline").show();
+        $("#toggle-timeline").text("Hide Timeline");
+        $("body").addClass("timeline-enabled");
+    }
 }
