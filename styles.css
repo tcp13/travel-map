@@ -124,7 +124,7 @@ body.map-page{
 }
 @media only screen and (max-width: 1000px) {
     body{margin:4%;}
-    body.map-page{margin:2%;}
+    body.map-page{margin:4%;}
 }
 @media only screen and (max-width: 800px) {
     div.card-padded {
@@ -137,8 +137,16 @@ body.map-page{
         width: 100% !important;
         margin: 1% 0px !important;
     }
-    footer{text-align:center;}
     footer div{float:none !important;}
+    #timeline{
+        width:100% !important;
+        margin-top:2rem;
+    }
+    #timeline .card h2{
+        font-size:1.25rem;
+        line-height:1.25;
+        padding-top: 0.2rem;
+    }
 }
 
 
