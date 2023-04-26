@@ -136,12 +136,16 @@ body.map-page{
     footer div{float:none !important;}
     #timeline{
         width:100% !important;
-        margin-top:2rem;
+        margin-top:0px !important;
     }
     #timeline .card h2{
-        font-size:1.25rem;
-        line-height:1.25;
-        padding-top: 0.2rem;
+        font-size:1.25rem !important;
+        line-height:1.25 !important;
+        padding-top: 0.2rem !important;
+    }
+    .modal-content h1{
+        font-size:1.25rem !important;
+        line-height:1.25 !important;
     }
     .modal-gallery-img{
         width:96% !important;
@@ -406,8 +410,8 @@ circle{
 input[type='checkbox']{
     display:inline;
     accent-color: var(--primary);
-    width: 1rem;
-    height: 1rem;
+    /* width: 0.9rem;
+    height: 0.9rem; */
     margin-right: 0.4rem;
     margin-left: 0px;
     cursor: pointer;
