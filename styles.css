@@ -149,7 +149,7 @@ body.map-page{
     }
     .modal-gallery-img{
         width:96% !important;
-        margin-top:2% !important;
+        margin:2% 0px !important;
         vertical-align:top;
     }
     .modal-content{
@@ -246,7 +246,10 @@ input, textarea, select{
     font-family:inherit;
 }
 input[type='checkbox']{
-    width:auto;
+    width:auto !important;
+    height:auto !important;
+    padding:0px !important;
+    margin:0px !important;
 }
 form, label{
     width:100%;
