@@ -149,7 +149,7 @@ body.map-page{
     }
     .modal-gallery-img{
         width:96% !important;
-        margin:2% !important;
+        margin-top:2% !important;
         vertical-align:top;
     }
     .modal-content{
@@ -246,7 +246,7 @@ input, textarea, select{
     font-family:inherit;
 }
 input[type='checkbox']{
-    width:initial;
+    width:auto;
 }
 form, label{
     width:100%;
@@ -446,10 +446,6 @@ input[type='checkbox']{
 #toggle-view button{
     display: inline-block;
     width: 100%;
-    opacity: 0.8;
-}
-#toggle-view button:hover{
-    opacity: 1 !important;
 }
 
 
